@@ -16,3 +16,5 @@ Raspberry Pi で赤外線防犯カメラを作成した時の覚書
 
 ※カメラ撮影時はカメラのLED点灯
 　センサー検知時はセンサー用LED点灯
+
+http://qiita.com/Naoki-Takamatsu/items/3ef4f04b36e4be21dbdc
